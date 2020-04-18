@@ -17,5 +17,6 @@ fprintf("Silam O3 mean in Portugal: %d\n", portugalO3Silam)
 models = categorical({'Chimere','Emep','Ensemble','Eurad','Match','Mocage','Silam'});
 modelsO3MeanValues = [portugalO3Chimere, portugalO3Emep, portugalO3Ensemble, portugalO3Eurad, portugalO3Match, portugalO3Mocage, portugalO3Silam];
 
-bar(models, modelsO3MeanValues)
+bar(models, modelsO3MeanValues, 'FaceColor', 'green')
+title('Portugal mean O3 concentration per model')
 saveas(gcf, 'ModelsBarChart.png')
