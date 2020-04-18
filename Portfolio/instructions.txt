@@ -1,0 +1,3 @@
+To run the portfolio simply open the Big Data Programming Project.html file in your most prefered web browser (Google Chrome is recommended since it is the only one I have proof working)
+
+The code generation was from a platform named Notion.so, so no merit from the same html files should be given to me.
