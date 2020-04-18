@@ -1,0 +1,9 @@
+How to run the code?
+
+Requirements:
+    Latest version available of MatLab (you can find this on the MatLab website https://uk.mathworks.com/products/matlab.html)
+
+
+Running:
+    To run the code simply open the folder you want and locate the .m file you wish to run, open that file in MatLab and it the run button, 
+you can also write the name of the file in the MatLab command line
