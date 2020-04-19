@@ -1,0 +1,43 @@
+These are all the commits done in my github repo:
+I understand that I should not provide my github link since the evaluation should be anonymous but unfortunately I used github as my main version control platform 
+<https://github.coventry.ac.uk/deoliveg/Big-Data-Project>
+
+
+Commits on Apr 19, 2020
+Updated portfolio.
+... committed 24 minutes ago
+ 
+Commits on Apr 18, 2020
+Instructions on running the portfolio added.
+... committed yesterday
+ 
+Instructions on running a matlab .m file added.
+... committed yesterday
+ 
+Erasing unecessary folders, organizing files.
+... committed yesterday
+ 
+Merge branch 'master' of https://github.coventry.ac.uk/deoliveg/Big-D… …
+... committed yesterday
+ 
+HTML files from portfolio added if changes to these are made just nee… …
+... committed yesterday
+ 
+Commits on Mar 16, 2020
+GIF Image created now preparing the figures with relevant titles for … …
+... committed on 16 Mar
+ 
+Sharing files with Windows to create GIF.
+... committed on 16 Mar
+ 
+Commits on Mar 9, 2020
+Code nearly finished just plotting results and preparing for Viva.
+... committed on 9 Mar
+ 
+Commits on Feb 27, 2020
+Mean O3 consumption calculation script in progress.
+... committed on 27 Feb
+ 
+Commits on Jan 31, 2020
+Data structured in folders for accessibility purposes.
+... committed on 31 Jan
