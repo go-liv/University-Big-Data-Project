@@ -7,3 +7,8 @@ Requirements:
 Running:
     To run the code simply open the folder you want and locate the .m file you wish to run, open that file in MatLab and it the run button, 
 you can also write the name of the file in the MatLab command line
+
+
+TO RUN THE CODE YOU NEED TO COPY ALL THE CONTENTS IN THE MODELS FOLDER INTO THE SAME FOLDER WHERE THE CODE YOU WISH TO RUN IS (do not copy the folder models inside the code folder
+copy the actual contents which are the 7 models in the .nc format), IF YOU DON'T THE CODE WILL NOT WORK. 
+(In the gif folder you do not need to do the above step)
